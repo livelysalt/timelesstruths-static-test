@@ -1,0 +1,6 @@
+[Autorun]
+open=autorun.exe
+icon=assets3/timeless.ico
+
+[AutorunPro]
+Run1=index.html

@@ -1,0 +1,79 @@
+<part type="list">
+<toc>
+<title>Photos of Warner's Contemporaries</title>
+</toc>
+
+<section type="illustration">
+<image file="i_AndrewLByers.jpg" align="center">
+<title>Andrew L. Byers</title>
+</image>
+<heading type="minor" align="center">Andrew L. Byers</heading>
+<p align="center">Office editor of <i>The Gospel Trumpet</i></p>
+</section>
+
+<section type="illustration">
+<image file="i_EnochEdwinByrum.jpg" align="center">
+<title>Enoch E. Byrum</title>
+</image>
+<heading type="minor" align="center">Enoch E. Byrum</heading>
+<p align="center">Editor of <i>The Gospel Trumpet</i> after Warner's death</p>
+</section>
+
+<section type="illustration">
+<image file="i_MaryandGeorgeLCole.jpg" align="center">
+<title>Mary and George L. Cole</title>
+</image>
+<heading type="minor" align="center">Mary and George L. Cole</heading>
+<p align="center">Superintendents of Faith Missionary Home, Chicago, Illinois</p>
+</section>
+
+<section type="illustration">
+<image file="i_FrederickGeorgeSmith.jpg" align="center">
+<title>Frederick G. Smith</title>
+</image>
+<heading type="minor" align="center">Frederick G. Smith</heading>
+<p align="center">Lacota, Michigan</p>
+</section>
+
+<section type="illustration">
+<image file="i_JacobWandJennieByers.jpg" align="center">
+<title>Jacob W. and Jennie Byers</title>
+</image>
+<heading type="minor" align="center">Jacob W. and Jennie Byers</heading>
+<p align="center">Lodi, California</p>
+</section>
+
+<section type="illustration">
+<image file="i_SMHelm.jpg" align="center">
+<title>S. M. Helm</title>
+</image>
+<heading type="minor" align="center">S. M. Helm</heading>
+<p align="center">Stafford, Kansas</p>
+</section>
+
+<section type="illustration">
+<image file="i_TrentsandSunderlands.jpg" align="center">
+<title>Trents and Sunderlands</title>
+</image>
+<heading type="minor" align="center">Back: Ella and Drusilla Trent</heading>
+<heading type="minor" align="center">Front: C. A. and S. S. Sunderland</heading>
+<p align="center">Granby, Missouri</p>
+</section>
+
+<section type="illustration">
+<image file="i_WilliamGSchell.jpg" align="center">
+<title>William G. Schell</title>
+</image>
+<heading type="minor" align="center">William G. Schell</heading>
+<p align="center">Moundsville, West Virginia</p>
+</section>
+
+<section type="illustration">
+<image file="i_GeorgeEBolds.jpg" align="center">
+<title>George E. Bolds</title>
+</image>
+<heading type="minor" align="center">George E. Bolds</heading>
+<p align="center">Brice, Missouri</p>
+</section>
+
+</part>
